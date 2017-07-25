@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+html{
+    width: 100%;
+    height: 95%;
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 95%;
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+    font-family: 'Nunito', sans-serif;
+}
+#content{
+    width: 50%;
+    margin-right: auto;
+    margin-left:auto;
+    height: 83%;
+    padding-top: 0;
+    margin-top: 5%;
+    border: 20px solid lightblue;
+    border-radius: 30px;
+    background-color: white;
+    text-align: center;
+}
+input[type=text], input[type=password]{
+    width:50%;
+    height:30px;
+    border:1px solid #070d3a;
+    background: #87e0fd;
+    border-radius: 3px;
+    color:darkslategray;
+    font-style: italic;
+    font-size: 18px;
+}
+input[type=submit]{
+    width:100px;
+    height:30px;
+    border:2px solid #070d3a;
+    background-color: #87e0fd;
+    border-radius: 3px;
+    font-weight: bolder;
+    font-size: 18px;
+    color:#070d3a;
+}

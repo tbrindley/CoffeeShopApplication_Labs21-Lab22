@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lab20-21_Spring-Project:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Lab20-21_Spring-Project-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lab20-21_Spring-Project:war exploded" />
+    </root>
+  </artifact>
+</component>
